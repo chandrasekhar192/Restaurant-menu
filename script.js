@@ -1,13 +1,13 @@
 // Data for the menu items
 const menuData = [
     { id: 1, name: "Classic Burger", price: 149, image: "burger.jpg" },
-    { id: 2, name: "Cheese Pizza", price: 299, image: "images/pizza.jpg" },
-    { id: 3, name: "Pasta Alfredo", price: 249, image: "images/pasta.jpg" },
-    { id: 4, name: "Grilled Chicken Salad", price: 199, image: "images/salad.jpg" },
-    { id: 5, name: "French Fries", price: 99, image: "images/french.jpg" },
-    { id: 6, name: "Cold Coffee", price: 120, image: "images/cold.jpg" },
-    { id: 7, name: "Chocolate Shake", price: 150, image: "images/choclate.jpg" },
-    { id: 8, name: "Vanilla Ice Cream", price: 80, image: "images/ice.jpg" }
+    { id: 2, name: "Cheese Pizza", price: 299, image: "pizza.jpg" },
+    { id: 3, name: "Pasta Alfredo", price: 249, image: "pasta.jpg" },
+    { id: 4, name: "Grilled Chicken Salad", price: 199, image: "salad.jpg" },
+    { id: 5, name: "French Fries", price: 99, image: "french.jpg" },
+    { id: 6, name: "Cold Coffee", price: 120, image: "cold.jpg" },
+    { id: 7, name: "Chocolate Shake", price: 150, image: "choclate.jpg" },
+    { id: 8, name: "Vanilla Ice Cream", price: 80, image: "ice.jpg" }
 ];
 
 // Array to store cart items

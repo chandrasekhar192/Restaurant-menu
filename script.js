@@ -1,6 +1,6 @@
 // Data for the menu items
 const menuData = [
-    { id: 1, name: "Classic Burger", price: 149, image: "images/burger.jpg" },
+    { id: 1, name: "Classic Burger", price: 149, image: "burger.jpg" },
     { id: 2, name: "Cheese Pizza", price: 299, image: "images/pizza.jpg" },
     { id: 3, name: "Pasta Alfredo", price: 249, image: "images/pasta.jpg" },
     { id: 4, name: "Grilled Chicken Salad", price: 199, image: "images/salad.jpg" },
